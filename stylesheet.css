@@ -12,3 +12,8 @@ h1{
    color:orange;
    opacity:1.0
 }
+p{
+  position:relative
+    left: 20px
+    
+}
