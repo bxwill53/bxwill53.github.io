@@ -8,3 +8,7 @@ body{
   background: linear-gradient(to right, rgba(210,255,82,1) 0%, rgba(21,161,37,0.91) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d2ff52', endColorstr='#15a125', GradientType=1 );
 }
+h1{
+   color:orange;
+   opacity:0.5
+}
